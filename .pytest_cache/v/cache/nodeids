@@ -1,0 +1,6 @@
+[
+  "RandomForestRegressor_study.py::test_RandomForestRegressor",
+  "RandomForestRegressor_study.py::test_RandomForestRegressor_num",
+  "RandomForestRegressor_study.py::test_RandomForestRegressor_max_depth",
+  "RandomForestRegressor_study.py::test_RandomForestRegressor_max_features"
+]
